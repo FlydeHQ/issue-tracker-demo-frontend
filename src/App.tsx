@@ -24,7 +24,7 @@ export type TasksApi = {
   setAssignee: (id: string, assigneeEmail: string | undefined) => Promise<Task>;
 };
 
-const API_BASE_URL = 'http://localhost:8484/apps/admin1/issue-tracker'
+const API_BASE_URL = 'https://flyde.app/apps/admin1/issue-tracker'
 
 const createApi = (baseUrl: string): TasksApi => ({
   getTasks: (dto) =>
