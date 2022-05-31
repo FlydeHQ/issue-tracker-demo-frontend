@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/issue-tracker-demo-frontend/static/css/main.6e576b02.css",
+    "main.js": "/issue-tracker-demo-frontend/static/js/main.19233035.js",
+    "static/js/787.a70b7625.chunk.js": "/issue-tracker-demo-frontend/static/js/787.a70b7625.chunk.js",
+    "index.html": "/issue-tracker-demo-frontend/index.html",
+    "main.6e576b02.css.map": "/issue-tracker-demo-frontend/static/css/main.6e576b02.css.map",
+    "main.19233035.js.map": "/issue-tracker-demo-frontend/static/js/main.19233035.js.map",
+    "787.a70b7625.chunk.js.map": "/issue-tracker-demo-frontend/static/js/787.a70b7625.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e576b02.css",
+    "static/js/main.19233035.js"
+  ]
+}
